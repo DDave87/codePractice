@@ -2,12 +2,13 @@
 Author Dhaval Dave : https://in.linkedin.com/in/davedhaval87
 Run this groovy code with giving File of words to stem as command line input.
 ex :$ groovy PorterStemmer.groovy abc.txt
-You can change input method with simple modification in program.
 
- Porter stemmer in CSharp, based on the Java port. The original paper is in
-    Porter, 1980, An algorithm for suffix stripping, Program, Vol. 14,
-    no. 3, pp 130-137,
-    See also http://www.tartarus.org/~martin/PorterStemmer
+You can change input method with simple modification in program.
+Porter stemmer in Groovy. The original paper is in
+Porter, 1980, An algorithm for suffix stripping, Program, Vol. 14,
+no. 3, pp 130-137,
+See also http://www.tartarus.org/~martin/PorterStemmer
+
 for any bug Please mail to : davedhaval87@gmail.com
 
 */
